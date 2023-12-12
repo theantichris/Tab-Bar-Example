@@ -18,7 +18,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemRedColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="sqs-nH-7CT"/>
+                    <tabBarItem key="tabBarItem" title="Red" image="r.square" catalog="system" selectedImage="r.square.fill" id="sqs-nH-7CT"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -52,7 +52,7 @@
                         <viewLayoutGuide key="safeArea" id="FBm-LM-S7I"/>
                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="Rgo-Vl-2FR"/>
+                    <tabBarItem key="tabBarItem" title="Orange" image="o.square" catalog="system" selectedImage="o.square.fill" id="Rgo-Vl-2FR"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bT4-hb-KQa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -60,6 +60,10 @@
         </scene>
     </scenes>
     <resources>
+        <image name="o.square" catalog="system" width="128" height="114"/>
+        <image name="o.square.fill" catalog="system" width="128" height="114"/>
+        <image name="r.square" catalog="system" width="128" height="114"/>
+        <image name="r.square.fill" catalog="system" width="128" height="114"/>
         <systemColor name="systemOrangeColor">
             <color red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
