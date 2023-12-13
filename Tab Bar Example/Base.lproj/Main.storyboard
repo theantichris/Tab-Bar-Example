@@ -8,10 +8,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Red View Controller-->
+        <!--Red View -->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" userLabel="Red View Controller" customClass="RedViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" userLabel="Red View " customClass="RedViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -48,10 +48,10 @@
             </objects>
             <point key="canvasLocation" x="138.1679389312977" y="-2.1126760563380285"/>
         </scene>
-        <!--Orange View Controller-->
+        <!--Orange View-->
         <scene sceneID="aaG-KQ-uzS">
             <objects>
-                <viewController id="55D-Je-C0n" userLabel="Orange View Controller" sceneMemberID="viewController">
+                <viewController id="55D-Je-C0n" userLabel="Orange View" customClass="OrangeViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="21M-iY-mTw">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -64,10 +64,10 @@
             </objects>
             <point key="canvasLocation" x="-902" y="732"/>
         </scene>
-        <!--Yellow View Controller-->
+        <!--Yellow View-->
         <scene sceneID="8tX-Vi-PwJ">
             <objects>
-                <viewController id="2VS-qe-R0w" userLabel="Yellow View Controller" sceneMemberID="viewController">
+                <viewController id="2VS-qe-R0w" userLabel="Yellow View" customClass="YellowViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Zd0-AK-Bb3">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -80,10 +80,10 @@
             </objects>
             <point key="canvasLocation" x="-195" y="732"/>
         </scene>
-        <!--Green View Controller-->
+        <!--Green View-->
         <scene sceneID="Iv0-Mi-nk1">
             <objects>
-                <viewController id="4Ih-fu-2gy" userLabel="Green View Controller" sceneMemberID="viewController">
+                <viewController id="4Ih-fu-2gy" userLabel="Green View" customClass="GreenViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="VsZ-vu-8ZP">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -96,10 +96,10 @@
             </objects>
             <point key="canvasLocation" x="489" y="732"/>
         </scene>
-        <!--Blue View Controller-->
+        <!--Blue View-->
         <scene sceneID="1qA-jb-2sN">
             <objects>
-                <viewController id="EBF-eq-ltJ" userLabel="Blue View Controller" sceneMemberID="viewController">
+                <viewController id="EBF-eq-ltJ" userLabel="Blue View" customClass="BlueViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="i7j-jG-Zet">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -112,10 +112,10 @@
             </objects>
             <point key="canvasLocation" x="1205" y="732"/>
         </scene>
-        <!--Purple View Controller-->
+        <!--Purple View-->
         <scene sceneID="9Nb-Go-84i">
             <objects>
-                <viewController id="Rf4-aR-4w2" userLabel="Purple View Controller" sceneMemberID="viewController">
+                <viewController id="Rf4-aR-4w2" userLabel="Purple View" customClass="PurpleViewController" customModule="Tab_Bar_Example" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8Us-pX-l0V">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
